@@ -1,0 +1,14 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+.mypy_cache/
+
+# Node modules
+node_modules/
+
+# Build outputs
+build/
+dist/
+
+# Environment files
+.env 
